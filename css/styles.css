@@ -105,8 +105,4 @@ footer {
     flex-direction: column;
     align-items: flex-start;
   }
-
-  .cards {
-    grid-template-columns: 1fr;
-  }
 }
